@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Elif Kırav Hakkında</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f9f9f9;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #2c3e50;
+      color: white;
+      padding: 2rem;
+      text-align: center;
+    }
+    main {
+      padding: 2rem;
+      max-width: 900px;
+      margin: auto;
+    }
+    article {
+      background: white;
+      padding: 1.5rem;
+      margin-bottom: 2rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    }
+    h1, h2 {
+      color: #2c3e50;
+    }
+    img {
+      max-width: 100%;
+      border-radius: 10px;
+      margin: 1rem 0;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      color: #777;
+    }
+    a {
+      color: #2980b9;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Elif Kırav Hakkında</h1>
+    <p>Gündeme Gelişi, Yaşadığı Olaylar ve Sosyal Medya Etkisi</p>
+  </header>
+  <main>
+    <article>
+      <h2>Genç Bir İsmin Yükselişi</h2>
+      <p>
+        Elif Kırav, özellikle sosyal medya üzerinden dikkat çeken genç bir isimdi. Paylaşımları, tarzı ve çevresiyle kısa sürede geniş bir takipçi kitlesine ulaştı. Özellikle Instagram'daki aktifliğiyle gençler arasında tanınır hale geldi.
+      </p>
+      <img src="https://images.unsplash.com/photo-1589182373726-58fd0f57c439?auto=format&fit=crop&w=900&q=60" alt="Sosyal Medya Temsili Görsel">
+    </article>
+
+    <article>
+      <h2>COVID-19 Sürecinde Tepki Çeken Parti</h2>
+      <p>
+        2020 yılında, tüm dünyada pandemi kısıtlamaları sürerken İstanbul'da düzenlediği bir ev partisiyle kamuoyunun tepkisini çekti. Parti görüntülerinin sosyal medyada yayılması üzerine pek çok kişi bu sorumsuz davranışı eleştirdi. Pandemi dönemindeki bu olay, Elif Kırav'ın isminin daha geniş kitleler tarafından duyulmasına neden oldu.
+      </p>
+      <p>
+        Bu olayın ardından sosyal medya üzerinden birçok kişi sağlık kurallarına uymanın önemini bir kez daha vurguladı. Elif Kırav ise uzun bir süre sessiz kaldı.
+      </p>
+    </article>
+
+    <article>
+      <h2>2023 Yılında Yaşanan Acı Olay</h2>
+      <p>
+        2023 yılında Elif Kırav hakkında gündeme gelen en üzücü gelişme, bir arkadaşı tarafından bıçaklanarak hayatını kaybetmesiydi. Bu trajik olay, hem sosyal medyada hem de basında büyük yankı uyandırdı.
+      </p>
+      <p>
+        Olayın detayları hâlâ birçok kişi için belirsizliğini korurken, genç yaşta hayatını kaybeden Elif Kırav'ın ardından pek çok kullanıcı onunla ilgili anılarını ve destek mesajlarını paylaştı. Olay, sosyal medya platformlarında günlerce gündemde kaldı.
+      </p>
+      <p>
+        Kaynak: <a href="https://www.sozcu.com.tr/unlu-oyuncu-sosyal-medya-fenomeni-arkadasini-oldurdu-p164483" target="_blank">Sözcü Gazetesi</a>
+      </p>
+    </article>
+
+    <article>
+      <h2>Sosyal Medyada Yansımalar</h2>
+      <p>
+        Elif Kırav'ın hem yaşadığı olaylar hem de hayatını kaybetmesi sosyal medya kullanıcılarını ikiye böldü. Bazı kesimler genç yaşta kaybedilen bir hayatın arkasında dururken, bazıları geçmişteki davranışlarını da eleştirmeyi sürdürdü.
+      </p>
+      <p>
+        Tüm bu süreç, sosyal medyanın insanlar üzerindeki etkisini ve bazı olayların ne kadar hızlı yayıldığını da bir kez daha gözler önüne serdi.
+      </p>
+    </article>
+  </main>
+
+  <footer>
+    <p>© 2025 Elif Kırav Hakkında Blog | Bu sayfa bilgi amaçlı hazırlanmıştır.</p>
+  </footer>
+</body>
+</html>
+
